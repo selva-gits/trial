@@ -1,6 +1,6 @@
 class Computer {
     public void playMusic() {
-        System.out.println("Playing music");
+        System.out.println("Playing guitar music...");
     }
 
     public String getMePenDrive() {
